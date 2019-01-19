@@ -1,0 +1,6 @@
+D:\Lesson1\Swap\bin\Debug\Swap.exe.config
+D:\Lesson1\Swap\bin\Debug\Swap.exe
+D:\Lesson1\Swap\bin\Debug\Swap.pdb
+D:\Lesson1\Swap\obj\Debug\SwapN4.csproj.CoreCompileInputs.cache
+D:\Lesson1\Swap\obj\Debug\Swap.exe
+D:\Lesson1\Swap\obj\Debug\Swap.pdb

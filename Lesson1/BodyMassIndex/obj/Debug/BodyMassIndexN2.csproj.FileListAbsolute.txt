@@ -1,0 +1,6 @@
+D:\Lesson1\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+D:\Lesson1\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+D:\Lesson1\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+D:\Lesson1\BodyMassIndex\obj\Debug\BodyMassIndexN2.csproj.CoreCompileInputs.cache
+D:\Lesson1\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+D:\Lesson1\BodyMassIndex\obj\Debug\BodyMassIndex.pdb

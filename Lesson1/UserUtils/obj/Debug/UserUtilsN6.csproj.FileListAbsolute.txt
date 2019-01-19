@@ -1,0 +1,5 @@
+D:\Lesson1\UserUtils\bin\Debug\UserUtils.dll
+D:\Lesson1\UserUtils\bin\Debug\UserUtils.pdb
+D:\Lesson1\UserUtils\obj\Debug\UserUtilsN6.csproj.CoreCompileInputs.cache
+D:\Lesson1\UserUtils\obj\Debug\UserUtils.dll
+D:\Lesson1\UserUtils\obj\Debug\UserUtils.pdb

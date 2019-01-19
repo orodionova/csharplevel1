@@ -1,0 +1,6 @@
+D:\Lesson1\Profile\bin\Debug\Lesson1.exe.config
+D:\Lesson1\Profile\bin\Debug\Lesson1.exe
+D:\Lesson1\Profile\bin\Debug\Lesson1.pdb
+D:\Lesson1\Profile\obj\Debug\ProfileN1.csproj.CoreCompileInputs.cache
+D:\Lesson1\Profile\obj\Debug\Lesson1.exe
+D:\Lesson1\Profile\obj\Debug\Lesson1.pdb
