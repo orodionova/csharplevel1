@@ -1,0 +1,13 @@
+c:\users\klavobey\documents\visual studio 2017\Projects\Lesson1\Lesson1\bin\Debug\Lesson1.exe.config
+c:\users\klavobey\documents\visual studio 2017\Projects\Lesson1\Lesson1\bin\Debug\Lesson1.exe
+c:\users\klavobey\documents\visual studio 2017\Projects\Lesson1\Lesson1\bin\Debug\Lesson1.pdb
+c:\users\klavobey\documents\visual studio 2017\Projects\Lesson1\Lesson1\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+c:\users\klavobey\documents\visual studio 2017\Projects\Lesson1\Lesson1\obj\Debug\Lesson1.exe
+c:\users\klavobey\documents\visual studio 2017\Projects\Lesson1\Lesson1\obj\Debug\Lesson1.pdb
+D:\Lesson1\Profile\bin\Debug\Lesson1.exe.config
+D:\Lesson1\Profile\bin\Debug\Lesson1.exe
+D:\Lesson1\Profile\bin\Debug\Lesson1.pdb
+D:\Lesson1\Profile\obj\Debug\Profile.csprojAssemblyReference.cache
+D:\Lesson1\Profile\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+D:\Lesson1\Profile\obj\Debug\Lesson1.exe
+D:\Lesson1\Profile\obj\Debug\Lesson1.pdb

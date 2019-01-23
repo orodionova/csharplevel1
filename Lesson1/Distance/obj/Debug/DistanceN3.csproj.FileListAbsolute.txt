@@ -1,0 +1,7 @@
+D:\Lesson1\Distance\bin\Debug\Distance.exe.config
+D:\Lesson1\Distance\bin\Debug\Distance.exe
+D:\Lesson1\Distance\bin\Debug\Distance.pdb
+D:\Lesson1\Distance\obj\Debug\DistanceN3.csproj.CoreCompileInputs.cache
+D:\Lesson1\Distance\obj\Debug\Distance.exe
+D:\Lesson1\Distance\obj\Debug\Distance.pdb
+D:\Lesson1\Distance\obj\Debug\DistanceN3.csprojAssemblyReference.cache

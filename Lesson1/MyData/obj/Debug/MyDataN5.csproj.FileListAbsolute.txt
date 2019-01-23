@@ -1,0 +1,10 @@
+D:\Lesson1\MyData\bin\Debug\MyData.exe.config
+D:\Lesson1\MyData\bin\Debug\MyData.exe
+D:\Lesson1\MyData\bin\Debug\MyData.pdb
+D:\Lesson1\MyData\obj\Debug\MyDataN5.csprojAssemblyReference.cache
+D:\Lesson1\MyData\obj\Debug\MyDataN5.csproj.CoreCompileInputs.cache
+D:\Lesson1\MyData\obj\Debug\MyData.exe
+D:\Lesson1\MyData\obj\Debug\MyData.pdb
+D:\Lesson1\MyData\bin\Debug\UserUtils.dll
+D:\Lesson1\MyData\bin\Debug\UserUtils.pdb
+D:\Lesson1\MyData\obj\Debug\MyDataN5.csproj.CopyComplete

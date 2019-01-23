@@ -1,0 +1,7 @@
+c:\Users\Klavobey\documents\visual studio 2017\Projects\Lesson1\Distance\bin\Debug\Distance.exe.config
+c:\Users\Klavobey\documents\visual studio 2017\Projects\Lesson1\Distance\bin\Debug\Distance.exe
+c:\Users\Klavobey\documents\visual studio 2017\Projects\Lesson1\Distance\bin\Debug\Distance.pdb
+c:\Users\Klavobey\documents\visual studio 2017\Projects\Lesson1\Distance\obj\Debug\Distance.csprojAssemblyReference.cache
+c:\Users\Klavobey\documents\visual studio 2017\Projects\Lesson1\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+c:\Users\Klavobey\documents\visual studio 2017\Projects\Lesson1\Distance\obj\Debug\Distance.exe
+c:\Users\Klavobey\documents\visual studio 2017\Projects\Lesson1\Distance\obj\Debug\Distance.pdb
